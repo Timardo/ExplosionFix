@@ -1,0 +1,6 @@
+name: ExplosionFix
+version: '1.0'
+main: net.timardo.explosionfix.ExplosionFix
+api-version: 1.19
+authors: [ Timardo ]
+description: Fixes blast resistance of blocks being moved by piston
